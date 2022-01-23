@@ -1,56 +1,16 @@
 body{
     background-image: url(../img/wallpaper.png);
     background-repeat: no-repeat;
-    max-width:100%;height:auto;
     background-size:cover;
-    background-position: center center ;
     color: #73879C;
     font-family: "Helvetica Neue", Arial, "Droid Sans", sans-serif;
-    font-size: 15px;
-    font-weight: 400;
-    
+ 
 }
 
-
-#titulo1 {
-	position: relative;
-	float: left;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: auto;
-        
-    
-}
-
-.content {
-
-    width: auto;
-    max-width: 600px ;
-    margin: 70px auto;
-    padding: 20px; 
-    background-color: rgba(219, 218, 218, 0.822);
-    border-radius: 15px;
-
-
-}
-
-.content .titulo1 {
-    text-align: center;
-    color: #165491;
-
-}
-
-.content .titulo2 {
-    text-align: center;
-    color: #7088a1;
-}
-
-
-  footer {
+footer {
 	background-color: rgba(219, 218, 218, 0.822);
 	padding: 20px 10px 20px 5px;
-	position:relative;
+
     
 }
 
